@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.sqlite3
+*.db
+*.bak
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Configuration files (if sensitive or environment-specific)
+.env
+config.ini
+*.json.sample # if you have sample config files
+
+# Build artifacts
+dist/
+build/
+*.egg
+
+# Uploads or media files (if applicable)
+media/
+uploads/
+
+# Jupyter Notebook files (if used)
+.ipynb_checkpoints/
